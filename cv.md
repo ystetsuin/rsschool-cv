@@ -28,8 +28,8 @@ I want to be involved in Frontend to create huge and useful projects that solve 
         - Data types / structures
         - Functions
         - Event loop
-        - DOM
-        - ES6+
+    - DOM
+    - ES6+
 
 ## Strengths
 
