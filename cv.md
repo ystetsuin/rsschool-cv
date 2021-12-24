@@ -1,9 +1,7 @@
 # Yaroslav Stetsiun
-
-![My photo](https://avatars.githubusercontent.com/u/4940636 "My photo")
-
-Learn Front-end, want to be Junior Fronted Developer | ![Codewars stats](https://www.codewars.com/users/ystetsuin/badges/micro "Codewars stats") 
+Learning Frontend, want to be Junior Fronted Developer | ![Codewars stats](https://www.codewars.com/users/ystetsuin/badges/micro "Codewars stats") 
 -----------|:-------: 
+![My photo](https://avatars.githubusercontent.com/u/4940636 "My photo")
 
 ## Contacts
 
