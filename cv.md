@@ -15,7 +15,7 @@ Learning Frontend, want to be Junior Fronted Developer | ![Codewars stats](https
 ## About Me
 
 I'm a SEO-specialist who wants to become Web Developer and get my first job as Junior Frontend Developer.
-I want to be involved in Frontend to create huge and useful project, that solve human needs.
+I want to be involved in Frontend to create huge and useful projects, that solve human needs.
 
 
 ## Strengths
@@ -59,7 +59,7 @@ function findOdd(arr) {
 
 ## Education and Courses
 
-- Higher education. Chernihiv National University of Technology. Computer network and systems engineer. 
+- Higher education. Chernihiv National University of Technology. Computer Network and Systems Engineer. 
 - [The Modern JavaScript Tutorial](https://learn.javascript.ru/)
 - [Udemy. Full JavaScript + React course - from beginning to result](https://www.udemy.com/course/javascript_full/)
 
