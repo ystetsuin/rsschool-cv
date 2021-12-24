@@ -17,6 +17,19 @@ Learning Frontend, want to be a Junior Fronted Developer | ![Codewars stats](htt
 I'm a SEO-specialist who wants to become a Web Developer and get my first job as a Junior Frontend Developer.
 I want to be involved in Frontend to create huge and useful projects that solve human needs.
 
+## Skills:
+
+- HTML&CSS
+- Git
+- JS
+    - Basics
+        - Operators
+        - Scope / Closure
+        - Data types / structures
+        - Functions
+        - Event loop
+        - DOM
+        - ES6+
 
 ## Strengths
 
