@@ -1,7 +1,8 @@
 # Yaroslav Stetsiun
 
-Learning Frontend, want to be a Junior Fronted Developer | ![Codewars stats](https://www.codewars.com/users/ystetsuin/badges/micro "Codewars stats") 
------------|:-------: 
+>Learning Frontend, want to be a Junior Fronted Developer
+
+![Codewars stats](https://www.codewars.com/users/ystetsuin/badges/micro "Codewars stats") 
 
 ![My photo](https://avatars.githubusercontent.com/u/4940636 "My photo")
 
