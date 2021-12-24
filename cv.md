@@ -23,8 +23,28 @@ Strengths:
 
 
 JS code example:
-- Task https://www.codewars.com/kata/54da5a58ea159efa38000836
-- Code 
+Task:
+Given an array of integers, find the one that appears an odd number of times.
+There will always be only one integer that appears an odd number of times.
+
+Source: https://www.codewars.com/kata/54da5a58ea159efa38000836
+
+Code:
+function findOdd(arr) {
+    if (arr.length == 1) return arr[0];
+
+    const unique = [...new Set(arr)];
+    
+    for (let i = 0; i < unique.length; i++) {
+        let odd = [];
+        for (let k = 0; k < arr.length; k++) {
+            (arr[k] == unique[i]) ? odd.push(arr[k]) : null;
+        }
+        if (odd.length % 2) {
+            return odd[0]
+        }
+    }
+}
 
 
 
