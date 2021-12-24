@@ -1,6 +1,6 @@
 # Yaroslav Stetsiun
 
-Learning Frontend, want to be Junior Fronted Developer | ![Codewars stats](https://www.codewars.com/users/ystetsuin/badges/micro "Codewars stats") 
+Learning Frontend, want to be a Junior Fronted Developer | ![Codewars stats](https://www.codewars.com/users/ystetsuin/badges/micro "Codewars stats") 
 -----------|:-------: 
 
 ![My photo](https://avatars.githubusercontent.com/u/4940636 "My photo")
@@ -14,17 +14,17 @@ Learning Frontend, want to be Junior Fronted Developer | ![Codewars stats](https
 
 ## About Me
 
-I'm a SEO-specialist who wants to become Web Developer and get my first job as Junior Frontend Developer.
-I want to be involved in Frontend to create huge and useful projects, that solve human needs.
+I'm a SEO-specialist who wants to become a Web Developer and get my first job as a Junior Frontend Developer.
+I want to be involved in Frontend to create huge and useful projects that solve human needs.
 
 
 ## Strengths
 
-- **Decency and honesty**. Always try to keep my promises.
+- **Decency and honesty**. Always keep my promises.
 - **Self-discipline**. I've been successfully working remotely for over 5 years.
-- **Conscientiousness**. Try to do my work quality.
-- **Communicability**. I can give and listen advise if it needs. You can argue with me and come to common language.
-- **Patience**. Understand that some events can take time to occur. I've been learning English (for over 1 year) and JS (for over 3 months).
+- **Conscientiousness**. Do my work effectively.
+- **Communicability**. I'm happy to give some advice. Build consensus easily with people.
+- **Patience**. Understand that achieving goals needs time. I've been learning English (for over 1 year) and JS (for over 3 months).
 - **Punctuality**. Fulfill my obligations on time.
 
 
