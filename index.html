@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv</title>
+    <link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <ul class="nav-list">
+              <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+              <li class="nav-item"><a href="#about-me" class="nav-link">About Me</a></li>
+              <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+              <li class="nav-item"><a href="#strengths" class="nav-link">Strengths</a></li>
+              <li class="nav-item"><a href="#js-code" class="nav-link">JS code example</a></li>
+              <li class="nav-item"><a href="#education" class="nav-link">Education and Courses</a></li>
+              <li class="nav-item"><a href="#english" class="nav-link">English</a></li>
+            </ul>
+          </nav>
+    </header>
+    <main class="main">
+        <div class="main-left">
+            <div class="text-block logo">
+                <img src="https://avatars.githubusercontent.com/u/4940636" alt="It's me">
+                <h1>Yaroslav Stetsiun</h1>
+                <p>Learning Frontend, want to be a Junior Fronted Developer</p>
+            </div>
+
+            <div class="text-block about-me">
+                
+                <h2><a name="about-me"></a>About Me</h2>
+                <p>I'm a SEO-specialist who wants to become a Web Developer and get my first job as a Junior Frontend Developer.
+                    I want to be involved in Frontend to create huge and useful projects that solve human needs.</p>
+            </div>
+
+            <div class="text-block contacts">
+                <h2><a name="contacts"></a>Contacts</h2>
+                <ul>
+                    <li>Ukraine, Chernihiv</li>
+                    <li><a href="tel:380937282424">+38(093) 728 2424</a></li>
+                    <li><a href="mailto:yaroslav.stetsuin@gmail.com">yaroslav.stetsuin@gmail.com</a></li>
+                    <li><a href="https://t.me/fallenhero">t.me/fallenhero</a></li>
+                </ul>
+            </div>
+
+            <div class="text-block education">
+                <h2><a name="education"></a>Education and Courses</h2>
+
+                <ul>
+                    <li>Higher education. Chernihiv National University of Technology</li>
+                    <li>The Modern JavaScript Tutorial</li>
+                    <li>Udemy. Full JavaScript + React course - from beginning to result</li>
+                </ul>
+            </div>
+
+            <div class="text-block en">
+                <h2><a name="english"></a>English</h2>
+                <p>A2 (Pre-Intermediate)</p>
+            </div>
+        </div>
+        <div class="text-block main-right">
+            
+            <div class="text-block skills">
+                <h2><a name="skills"></a>Skills</h2>
+    
+                <ul>
+                    <li>HTML&CSS</li>
+                    <li>Git</li>
+                    <li>JS
+                        <ul>
+                            <li>Basics
+                                <ul>
+                                    <li>Operators</li>
+                                    <li>Scope / Closure</li>
+                                    <li>Data types / structures</li>
+                                    <li>Functions</li>
+                                    <li>Event loop</li>
+                                </ul>
+                            </li>
+                            <li>DOM</li>
+                            <li>ES6+</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="text-block strengths">
+                <h2><a name="strengths"></a>Strengths</h2>
+                <ul>
+                    <li><strong>Decency and honesty</strong>. Always keep my promises.</li>
+                    <li><strong>Self-discipline</strong>. I've been successfully working remotely for over 5 years.</li>
+                    <li><strong>Conscientiousness</strong>. Do my work effectively.</li>
+                    <li><strong>Communicability</strong>. I'm happy to give some advice. Build consensus easily with people.</li>
+                    <li><strong>Patience</strong>. Understand that achieving goals needs time. I've been learning English (for over 1 year) and JS (for over 3 months).</li>
+                    <li><strong>Punctuality</strong>. Fulfill my obligations on time.</li>
+                </ul>
+            </div>
+
+            <div class="text-block js-code">
+                <h2><a name="js-code"></a>JS code example</h2>
+                <p><strong>Task:</strong></p>
+                    
+                <p>Given an array of integers, find the one that appears an odd number of times.
+                    There will always be only one integer that appears an odd number of times. <a href="https://www.codewars.com/kata/54da5a58ea159efa38000836">Source</a>.</p>
+                
+                <p><strong>Code:</strong></p>
+                <div class="code"><p><code>
+<pre>
+function findOdd(arr) {
+    if (arr.length == 1) return arr[0];
+
+    const unique = [...new Set(arr)];
+    
+    for (let i = 0; i < unique.length; i++) {
+        let odd = [];
+        for (let k = 0; k < arr.length; k++) {
+            (arr[k] == unique[i]) 
+                ? odd.push(arr[k]) 
+                : null;
+        }
+        if (odd.length % 2) {
+            return odd[0]
+        }
+    }
+}</pre></code></p></div>
+            </div>
+        </div>
+    </main>
+    <footer class="footer">
+        <p>&copy; 2021</p>
+
+        <a href="https://github.com/ystetsuin" target="_blank">
+            <img src="./assets/svg/github-1.svg" alt="github logo">
+        </a>
+
+        <a href="https://rs.school/js/" target="_blank">
+            <img src="./assets/svg/rs_school_js.svg" alt="rs school logo" height="24">
+        </a>
+    </footer>
+</body>
+</html>
+
